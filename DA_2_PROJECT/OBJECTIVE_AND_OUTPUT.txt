@@ -1,0 +1,31 @@
+Advanced Data Analysis Project: Movie Recommendation & Analysis System
+
+Project Goals:
+
+Explore and analyze a dataset of movies
+
+Analyze genre trends, ratings, popularity, etc.
+
+Build a basic content-based movie recommender system
+
+Visualize trends like top genres, rating distributions, and release patterns
+
+
+
+OUTPUT:
+
+Console outputs: top genres, top-rated movies, year-wise counts
+
+3 charts:
+
+Genre bar chart
+
+Rating distribution histogram
+
+Runtime vs rating scatter plot
+
+A mini recommendation system:
+
+Suggests similar movies to “The Dark Knight”
+
+Saves a cleaned .csv file
