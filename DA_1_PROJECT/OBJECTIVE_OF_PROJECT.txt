@@ -1,0 +1,30 @@
+Objective:
+Analyze student performance data to discover insights like:
+
+Which gender scores better?
+
+Does test preparation help?
+
+How do scores vary with parental education?
+
+Requirements:
+You only need Python and some basic libraries:
+
+pandas
+
+matplotlib
+
+seaborn
+
+
+
+Output:
+
+Math score distribution by gender (Box Plot)
+
+Impact of test preparation on scores (Bar Chart)
+
+Effect of parental education on performance (Bar Chart)
+
+Cleaned dataset with average scores
+
